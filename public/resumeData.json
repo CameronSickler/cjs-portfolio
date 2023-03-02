@@ -112,6 +112,12 @@
         "category": "",
         "image": "codingnkobolds.jpg",
         "url": "https://netflix-clone-2-6cbba.firebaseapp.com/"
+      },
+      {
+        "title": "Coming Soon",
+        "category": "",
+        "image": "comingsoon.jpg",
+        "url": "https://netflix-clone-2-6cbba.firebaseapp.com/"
       }
     ]
   },
