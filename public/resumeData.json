@@ -1,16 +1,16 @@
 {
   "main": {
-    "name": "Cameron",
-    "occupation": "Former Insurance Agent",
-    "description": "Motivated and Inspired Programmer",
+    "name": "Cameron Sickler",
+    "occupation": "Aspiring Programmer",
+    "description": "Former Insurance Agent",
     "image": "profilepic.jpg",
-    "bio": "Hi there! I am Cameron! I appreciate your interest in my portfolio. I have been coding for about a year now after completing a Full Stack Web Development Bootcamp. This was program offered through the University of Wisconsin Extended Campus System. Once I discovered coding I seized an opportunity to leave my insurance days behind me in pursuit of something I am truly passionate about.",
+    "bio": "Hi there! I am Cameron! I appreciate your interest in my portfolio. I have been coding for about a year now after completing a Full Stack Web Development Bootcamp. The program was completed through the University of Wisconsin Extended Campus System. Once I discovered coding I seized an opportunity to leave my insurance days behind me in pursuit of something I am truly passionate about.",
     "contactmessage": "Get in touch with me if you have any questions!",
     "email": "sicklecj@gmail.com",
-    "phone": "19205700300",
+    "phone": "",
     "address": {
       "street": "",
-      "city": "Madison",
+      "city": "Madison WI",
       "state": "Wisconsin",
       "zip": "53713"
     },
@@ -45,13 +45,13 @@
       },
       {
         "school": "University of Wisconsin Eau Claire",
-        "degree": "Bachelor's",
+        "degree": "Bachelor's Degree",
         "graduated": "May 2016",
-        "description": "Major Organizational Communication Minor Information Systems."
+        "description": "Major: Organizational Communication Minor: Information Systems."
       },
       {
         "school": "University of Wisconsin Fox Valley",
-        "degree": "Associate",
+        "degree": "Associate Degree",
         "graduated": "May 2014",
         "description": "Emphasis in Journalism"
       }
@@ -73,15 +73,15 @@
     "skills": [
       {
         "name": "ReactJs",
-        "level": "100%"
+        "level": "75%"
       },
       {
         "name": "CSS",
-        "level": "85%"
+        "level": "75%"
       },
       {
         "name": "Git",
-        "level": "70%"
+        "level": "90%"
       },
       {
         "name": "JavaScript",
@@ -89,6 +89,10 @@
       },
       {
         "name": "Web Development",
+        "level": "95%"
+      },
+      {
+        "name": "HTML",
         "level": "95%"
       }
     ]
@@ -105,13 +109,7 @@
         "title": "Run Buddy (HTML CSS)",
         "category": "",
         "image": "runbuddy.jpg",
-        "url": "https://netflix-clone-2-6cbba.firebaseapp.com/"
-      },
-      {
-        "title": "Coding n' Kobolds (React JS)",
-        "category": "",
-        "image": "codingnkobolds.jpg",
-        "url": "https://netflix-clone-2-6cbba.firebaseapp.com/"
+        "url": "https://cameronsickler.github.io/run-buddy/"
       },
       {
         "title": "Coming Soon",
@@ -124,7 +122,7 @@
   "testimonials": {
     "testimonials": [
       {
-        "text": "Wow does he really does great work.",
+        "text": "Wow he really does great work.",
         "user": "Mom"
       },
       {
