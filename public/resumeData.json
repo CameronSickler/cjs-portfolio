@@ -1,10 +1,10 @@
 {
   "main": {
     "name": "Cameron Sickler",
-    "occupation": "Aspiring Programmer",
-    "description": "Former Insurance Agent",
+    "occupation": "Passionate Programmer",
+    "description": "Experienced Insurance Agent",
     "image": "profilepic.jpg",
-    "bio": "Hi there! I am Cameron! I appreciate your interest in my portfolio. I have been coding for about a year now after completing a Full Stack Web Development Bootcamp. The program was completed through the University of Wisconsin Extended Campus System. Once I discovered coding I seized an opportunity to leave my insurance days behind me in pursuit of something I am truly passionate about.",
+    "bio": "I hope you are enjoying my portfolio so far! Coding is hobby I noticed as an undergraduate and pursued a few years after joining the workforce. I used my knowledge as a coder in conjunction with the resources provided by the coding community to put together this website. My goal with this site is to demonstrate my coding knowledge while simultanously educating you about my professional work experience. Please take some time to view the information I provided and thank you for stopping in!",
     "contactmessage": "Please contact me if you have any questions!",
     "email": "sicklecj@gmail.com",
     "phone": "",
@@ -41,7 +41,7 @@
         "school": "University of Wisconsin Extended Campus System",
         "degree": "Full Stack Web Development Certification",
         "graduated": "August 2022",
-        "description": "Six Month Long Program Advertised as Equivalent Two Years Work Experience."
+        "description": "Six Month Long Program Taught 100% Remote. Graduated With An Overall Grade A 95.08%."
       },
       {
         "school": "University of Wisconsin Eau Claire",
@@ -122,11 +122,11 @@
   "testimonials": {
     "testimonials": [
       {
-        "text": "Wow he really does great work.",
-        "user": "Mom"
+        "text": "What a great portfolio. I'd really like to reach out to this guy to discuss career opportunities.",
+        "user": "The person reading this quote right now"
       },
       {
-        "text": "This guy could really use a job.",
+        "text": "I've know this guy for a long time and I can say he's definately looking for work and worth interviewing.",
         "user": "Myself"
       }
     ]
